@@ -1,6 +1,6 @@
-# :factory: Datapack
+# :factory: DataPack
 
-Datapack is a tool aiming to simmplify the packaging of datas cience projects.
+DataPack is a tool aiming to simmplify the packaging of data science projects.
 
 ## Getting started
 
